@@ -1,6 +1,6 @@
 ﻿namespace LibraryAPI.Models
 {
-    public class Book
+    public class Member
     {
     }
 }
